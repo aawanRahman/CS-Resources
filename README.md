@@ -22,3 +22,7 @@
 
 1. [System Design Interview An Insider’s Guide](http://library.lol/main/FE2692FB8EBDC7615BEAA437D454CC50)
 2. [System Design Interview – An Insider's Guide: Volume 2](http://library.lol/main/826E4ABE0E70DBAE51FC27A21386F301)
+
+## Other Resources.
+
+[বাংলায় প্রোগ্রামিং রিসোর্সসমূহ](https://github.com/tanmoy13/bangla-programming-resources)
