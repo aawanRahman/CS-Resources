@@ -16,7 +16,7 @@
    1. [ReFactoring Guru](https://refactoring.guru/)
    2. [Head First Design Patterns: A Brain-Friendly Guide - By Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra](http://library.lol/main/7CD96760AF3D1FB37CF6CD5BD287586B)
    3. [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software - By Eric Freeman, Elisabeth Robson](http://library.lol/main/2CF0E1F488D4C588C93004DE7D88D72D)
-   4. [Dive Into Design Patterns - By Alexander Shvets](Dive Into Design Patterns)
+   4. [Dive Into Design Patterns - By Alexander Shvets](http://library.lol/main/413159300983C70C458262D1EB6A9155)
    
 ### System Design
    1. [System Design Interview An Insider’s Guide](http://library.lol/main/FE2692FB8EBDC7615BEAA437D454CC50)
