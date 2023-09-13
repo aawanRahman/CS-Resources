@@ -8,9 +8,9 @@
 
 ### Programming Languages
    #### JavaScript
-      1. [The Modern JavaScript Tutorial](https://javascript.info/)
-      2. [JavaScript, mdn web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-      3. [JavaScript Tutorial - javatpoint](https://www.javatpoint.com/javascript-tutorial)
+   1. [The Modern JavaScript Tutorial](https://javascript.info/)
+   2. [JavaScript, mdn web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+   3. [JavaScript Tutorial - javatpoint](https://www.javatpoint.com/javascript-tutorial)
 
 ### Design Pattern
    1. [ReFactoring Guru](https://refactoring.guru/)
