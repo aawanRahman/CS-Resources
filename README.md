@@ -25,6 +25,7 @@
    #### Node.js
    1. [Introduction to Node.js](https://nodejs.dev/en/learn/)
    2. [Node.js Design Patterns by Mario Casciaro, Luciano Mammino](http://library.lol/main/851808BE329DEC76FA8E008EE9549FF9)
+   3. [Learning Node: Moving to the Server-Side by Shelley Powers](http://library.lol/main/33E2961E5D58693E7DCC15BF5BF727F5)
 
 ### Other Resources.
    1. [বাংলায় প্রোগ্রামিং রিসোর্সসমূহ](https://github.com/tanmoy13/bangla-programming-resources)
