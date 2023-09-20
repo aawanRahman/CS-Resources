@@ -23,7 +23,8 @@
    2. [System Design Interview – An Insider's Guide: Volume 2](http://library.lol/main/826E4ABE0E70DBAE51FC27A21386F301)
 ### Web Development
    #### Node.js
-      1. [Introduction to Node.js](https://nodejs.dev/en/learn/)
+   1. [Introduction to Node.js](https://nodejs.dev/en/learn/)
+   2. [Node.js Design Patterns by Mario Casciaro, Luciano Mammino](http://library.lol/main/F94E37AA0C43246FD1F08DEF9FFD802A)
 
 ### Other Resources.
    1. [বাংলায় প্রোগ্রামিং রিসোর্সসমূহ](https://github.com/tanmoy13/bangla-programming-resources)
