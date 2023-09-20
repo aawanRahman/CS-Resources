@@ -24,7 +24,7 @@
 ### Web Development
    #### Node.js
    1. [Introduction to Node.js](https://nodejs.dev/en/learn/)
-   2. [Node.js Design Patterns by Mario Casciaro, Luciano Mammino](http://library.lol/main/F94E37AA0C43246FD1F08DEF9FFD802A)
+   2. [Node.js Design Patterns by Mario Casciaro, Luciano Mammino](http://library.lol/main/851808BE329DEC76FA8E008EE9549FF9)
 
 ### Other Resources.
    1. [বাংলায় প্রোগ্রামিং রিসোর্সসমূহ](https://github.com/tanmoy13/bangla-programming-resources)
